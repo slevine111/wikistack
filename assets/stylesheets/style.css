@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+#space-add,
+#button-container {
+  margin-top: 20px;
+}
+
+form[method='POST'] > div.form-check {
+  margin-bottom: 10px;
+}
+
+form[method='POST'] > div {
+  font-size: 1.15em;
+}
+
+.row {
+  margin-right: 400px;
+}
+
+.form-check-label {
+  padding-right: 10px;
+}
+
+#button-container {
+  padding-left: 0px;
+}
